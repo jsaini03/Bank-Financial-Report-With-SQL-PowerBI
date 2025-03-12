@@ -93,3 +93,8 @@ git clone (https://github.com/jsaini03/Bank-Financial-Report-With-SQL-PowerBI.gi
 Run the SQL queries using SQL Server Management Studio (SSMS) or any SQL database platform.
 
 Modify queries as needed to customize the analysis.
+
+
+# Power BI Dashboard
+![ezgif-7e9a71f509fae7](https://github.com/user-attachments/assets/f3811ae7-1f46-4393-a1de-072e5b37c815)
+
