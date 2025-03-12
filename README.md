@@ -88,7 +88,7 @@ MoM comparisons to analyze growth and seasonality
 
 Clone the repository:
 
-git clone https://github.com/your-username/loan-data-analysis.git
+git clone (https://github.com/jsaini03/Bank-Financial-Report-With-SQL-PowerBI.git)
 
 Run the SQL queries using SQL Server Management Studio (SSMS) or any SQL database platform.
 
